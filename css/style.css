@@ -51,6 +51,10 @@ body {
   margin-bottom: 10px;
 }
 
+.nav-links:hover {
+  color: white;
+}
+
 .form-text {
   color: rgb(122, 125, 130);
   font-family: Arial, Helvetica, sans-serif;
@@ -105,6 +109,10 @@ body {
   font-weight: lighter;
 }
 
+.copyright:hover {
+  color: white;
+}
+
 .redes-sociales {
   display: flex;
   flex-flow: row wrap;
@@ -116,4 +124,8 @@ body {
   margin: 0;
   color: white;
   font-size: 20px;
+}
+
+.redes-sociales-icons:hover {
+  color: rgb(41, 82, 255);
 }
